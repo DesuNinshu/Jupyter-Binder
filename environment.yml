@@ -1,4 +1,4 @@
-name: example-environment
+name: Jupyter-Binder
 channels:
   - conda-forge
 dependencies:
